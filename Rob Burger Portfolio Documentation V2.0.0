@@ -1,0 +1,38 @@
+Rob Burger Portfolio Documentation V2.0.0
+
+Verblitz 
+1. Photo / Caption
+2. Text Block
+3. Image Banner
+
+Korkboard 
+1. Photo / Caption
+2. Text Block
+3. Image Banner
+
+OpenVerse
+1. Photo / Caption
+2. Text Block
+3. Image Banner
+
+
+
+****|Sections|***
+
+1. 	Top Navbar
+		div		.topnav
+		div 	.container .topnav
+2.	Landing Page Image 
+		div		.intro-header
+		ul		.list-inline .intro-social-buttons
+3.	Featured Portfolio Content Section
+	- Verblitz, Korkboad, openVerse 
+		div		.content-section-a
+		 div	.container
+		  div	.row
+		   div	.col(x) image - col(x) feature text
+!!!Add row inside of container for image!!!
+4.  Banner Area (Bottom)
+		div		.banner
+
+5. Port
