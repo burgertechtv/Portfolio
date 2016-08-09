@@ -1,12 +1,59 @@
+.progress-bar-label {
+	min-width: 60px;
+}
+
+.banner_img {
+	max-width: 150px;
+}
+
 .portfolio_banner {
-	background-color: yellow;
+	background-color: ;
 }
 
 #profile_pic {
 	margin: -80px auto;
-	height: 160px;
-	
-	
+	height: 160px;	
 }
 
+#HTML_Progress_Label {
+	width: 20%;
+}
+#HTML_Progress {
+	width: 75%	
+}
+
+#CSS_Progress_Label {
+	width: 20%;
+}
+#CSS_Progress {
+	width: 70%	
+}
+
+#Bootstrap_Progress_Label {
+	width: 20%;
+}
+#Bootstrap_Progress {
+	width: 65%;
+}
+
+#UI_Progress_Label {
+	width: 20%	
+}
+#UI_Progress {
+	width: 78%	
+}
+
+#JS_Progress_Label {
+	width: 20%;
+}
+#JS_Progress {
+	width: 30%	
+}
+
+#Design_Progress_Label {
+	width: 20%;
+}
+#Design_Progress {
+	width: 60%	
+}
 

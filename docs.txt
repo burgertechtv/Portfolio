@@ -1,5 +1,42 @@
 Rob Burger Portfolio Documentation V2.0.0
 
+***|IMAGES|***
+Current: 
+	Korkboard Mockup 1
+	Korkboard Mockup 2
+	Korkboard Mockup 3
+	
+	SprachSchnell Mockup 1
+	SprachSchnell Mockup 2
+	SprachSchnell Mockup 3
+	SprachSchnell Mockup 4
+	
+	Greek Gadget Guru Mockup
+	Greek Gadget Guru Mobile 
+	
+	IT Project Mockup 1
+	IT Project Mockup 1
+	
+	OpenVerse Logo
+	OpenVerse Flyer 1
+	
+Needed: 
+	
+	Verblitz Sketch 1
+	Verblitz Sketch 2
+	
+	Verblitz Mockup 1
+	Verblitz Mockup 2
+	Verblitz Mockup 3
+	
+	OpenVerse Flyer 2
+	OpenVerse Flyer 3
+	OpenVerse Flyer 4
+	
+	
+
+
+
 Verblitz 
 1. Photo / Caption
 2. Text Block
@@ -16,23 +53,50 @@ OpenVerse
 3. Image Banner
 
 
+images: 
+	img-rounded, circle 
 
-****|Sections|***
+.img-responsive 
+	display block
+	max width 
+	height auto 
 
-1. 	Top Navbar
+.thumbnail
+
+
+responsive-4by3 16by9
+
+
+***|Sections|***
+
+- Top Navbar
 		div		.topnav
 		div 	.container .topnav
-2.	Landing Page Image 
+- Landing Page Image 
 		div		.intro-header
 		ul		.list-inline .intro-social-buttons
-3.	Featured Portfolio Content Section
+- Skills Section
+	HTML, CSS, etc 		
+
+- Featured Portfolio Content Section
 	- Verblitz, Korkboad, openVerse 
 		div		.content-section-a
 		 div	.container
 		  div	.row
 		   div	.col(x) image - col(x) feature text
 !!!Add row inside of container for image!!!
-4.  Banner Area (Bottom)
+-  Banner Area (Bottom)
 		div		.banner
 
-5. Port
+
+- Portfolio Grid 
+	.row 
+	 .col
+	  .thumbnail
+	   a
+	   	.img-responsive .portfolio_img
+	   /a 
+		
+
+
+
